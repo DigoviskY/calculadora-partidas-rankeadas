@@ -27,6 +27,6 @@ calcularNivel(75, 20);
 Saída:
 O Herói tem de saldo de 55 está no nível de Ouro
 
-Autor
+Autor:
 Rodrigo Freire
 
