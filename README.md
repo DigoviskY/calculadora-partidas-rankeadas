@@ -30,5 +30,3 @@ O Herói tem de saldo de 55 está no nível de Ouro
 Autor
 Rodrigo Freire
 
-O Herói tem de saldo de 55 está no nível de Ouro
-
