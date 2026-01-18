@@ -21,5 +21,14 @@ Criar uma função que recebe vitórias e derrotas, calcula o saldo e define o n
 - 101 ou mais → Imortal  
 
 ## Exemplo
-```javascript
+
 calcularNivel(75, 20);
+
+Saída:
+O Herói tem de saldo de 55 está no nível de Ouro
+
+Autor
+Rodrigo Freire
+
+O Herói tem de saldo de 55 está no nível de Ouro
+
